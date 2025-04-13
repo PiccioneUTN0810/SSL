@@ -1,8 +1,8 @@
-/* /* Qué: Nombre
- * Breve descripción
- * Quiénes: Autores
- * Cuando: Fecha de última modificación
- **/
+/* Qué: Trabajo00
+ * Descripcion: Muestra por pantalla "Hello World"
+ * Quiénes: Ignacio Piccione
+ * Cuando: 20250413
+ */
 #include <stdio.h>
 
 int main() {
